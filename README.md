@@ -10,7 +10,7 @@ The objective of this project is to transform raw car sales data into meaningful
 
 ## Dashboard Preview
 
-![Car Sales Dashboard](images/sar_sales_dashboardoverview.png)
+![Car Sales Dashboard](car_sales_dashboard overview.png)
 
 ## Key Metrics
 
